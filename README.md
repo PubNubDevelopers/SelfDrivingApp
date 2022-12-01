@@ -1,3 +1,7 @@
+## Please note that this project is no longer actively maintained or accepting Pull Requests.  Please use the [Delivery Application](https://github.com/PubNubDevelopers/delivery-demo) instead.
+
+----------------------------
+
 # Self Driving Car App
 
 
