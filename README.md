@@ -5,9 +5,6 @@
 # Self Driving Car App
 
 
-[Click here for full tutorial]()
-
-
 # Quickstart
 
 1. In order to set up PubNub in your android app, you will need to create a PubNub app in the PubNub Admin Dashboard (it’s free). Upon creating the app, you will be assigned a subscribe key and publish key. You will need to go to the Constants.java class and enter these credentials where it says INSERT_SUBSCRIBE_KEY and INSERT_PUBLISH_KEY respectively.
